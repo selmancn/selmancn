@@ -4,7 +4,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Developer
 ------------------
 
-I am an experienced software developer skilled in creating applications across web, desktop, and mobile platforms. With a strong foundation in React, I develop dynamic and user-friendly web applications, combining my HTML and CSS expertise with CSS preprocessors like Sass and Less to craft modern interfaces. I am proficient in using UI libraries such as Tailwind and Bootstrap, enabling me to deliver flexible and visually appealing user interfaces. Additionally, I have experience in building desktop applications with Electron and am proficient in mobile app development with React Native. With the ability to develop robust and scalable projects across various platforms, I focus on creating effective solutions that maximize user experience.
+I am an experienced software developer with a background in web, desktop, and mobile application development. I build user-friendly web applications with React and enhance my HTML and CSS skills using tools like Sass and Less. I also work with UI libraries like Tailwind and Bootstrap to create modern and flexible interfaces.
+
+In addition, I have experience developing desktop applications with Electron and mobile apps with React Native. I focus on delivering scalable, user-centered solutions across different platforms.
 
 *   🌍  I'm based in Türkiye
 *   ✉️  You can contact me at [selman.cinn@gmail.com](mailto:selman.cinn@gmail.com)
